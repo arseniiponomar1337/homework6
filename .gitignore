@@ -1,0 +1,14 @@
+# Временные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Логи и кэш
+*.log
+.eslintcache
+
+# Зависимости (если это Node.js проект)
+node_modules/
+
+# Конфиденциальные данные
+.env
+.env.local
